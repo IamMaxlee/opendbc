@@ -33,4 +33,13 @@ NS_ :
 
 BS_:
 
-BU_:
+BU_: XXX
+
+
+BO_ 656 NEW_MSG_1: 8 XXX
+ SG_ Car_Speed : 15|8@0+ (1,0) [0|255] "km/h" XXX
+
+
+
+
+CM_ SG_ 656 Car_Speed "this is the car speed in km/h";
